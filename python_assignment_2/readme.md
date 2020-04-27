@@ -4,6 +4,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
+[TOC]
 
 This was a follow-up assignment to the previous one I completed using python to follow the below specs.
 
